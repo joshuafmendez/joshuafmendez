@@ -21,6 +21,11 @@ Created first iteration of portfolio website
 // set an empty object for use later use in the program
 let obj = {}
 ```
+## Image
+![Mandalorian Skull](https://starwarsblog.starwars.com/wp-content/uploads/2019/12/the-mandalorian-announce-tall.jpg)
+
+
+
 
 <!--
 **joshuafmendez/joshuafmendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
