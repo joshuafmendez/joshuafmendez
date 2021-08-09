@@ -22,7 +22,7 @@ Created first iteration of portfolio website
 let obj = {}
 ```
 ## Image
-![Mandalorian Skull](https://starwarsblog.starwars.com/wp-content/uploads/2019/12/the-mandalorian-announce-tall.jpg)
+<!-- ![Mandalorian Skull](https://starwarsblog.starwars.com/wp-content/uploads/2019/12/the-mandalorian-announce-tall.jpg) -->
 
 
 
