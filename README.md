@@ -21,7 +21,7 @@ Created first iteration of portfolio website
 // set an empty object for use later use in the program
 let obj = {}
 ```
-## Image
+<!-- ## Image -->
 <!-- ![Mandalorian Skull](https://starwarsblog.starwars.com/wp-content/uploads/2019/12/the-mandalorian-announce-tall.jpg) -->
 
 
